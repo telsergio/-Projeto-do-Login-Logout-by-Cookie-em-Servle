@@ -49,8 +49,7 @@ https://github.com/telsergio/-Projeto-do-Login-Logout-by-Cookie-em-Servle/assets
 #### Cadastro
 [![cadastro](https://github.com/telsergio/-Projeto-do-Login-Logout-by-Cookie-em-Servle/blob/main/cadastro.jpg)
 
-#### Login
-![login](https://github.com/telsergio/login-logout-jsp/raw/master/print/tela-login.png)
+
 
 
 #### Mensagens de validação
