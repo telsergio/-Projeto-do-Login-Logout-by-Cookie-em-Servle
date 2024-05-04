@@ -11,7 +11,7 @@ Sistema simples de cadastro e login de usuários utilizando sessão implementado
 
 
 #### Mensagens de validação
-![validacao-login](https://github.com/XxJoaoQueirozxX/login-logout-jsp/raw/master/print/tela-login-validacao.png)
+[![validacao-login](https://github.com/XxJoaoQueirozxX/login-logout-jsp/raw/master/print/tela-login-validacao.png)](https://github.com/telsergio/-Projeto-do-Login-Logout-by-Cookie-em-Servle/blob/main/tela-login-validacao.png)
 
 #### Página HOME (Renderezição dos dados do usuário)
 ![home](https://github.com/telsergio/login-logout-jsp/raw/master/print/home.png)
