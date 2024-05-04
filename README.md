@@ -4,7 +4,7 @@ Sistema simples de cadastro e login de usuários utilizando sessão implementado
 ## Preview
 
 #### Cadastro
-![cadastro](https://github.com/telsergio/login-logout-jsp/raw/master/print/cadastro.jpg)
+[![cadastro](https://github.com/telsergio/login-logout-jsp/raw/master/print/cadastro.jpg)](https://github.com/telsergio/-Projeto-do-Login-Logout-by-Cookie-em-Servle/blob/main/cadastro.jpg)
 
 #### Login
 ![login](https://github.com/telsergio/login-logout-jsp/raw/master/print/tela-login.png)
